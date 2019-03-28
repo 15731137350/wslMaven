@@ -20,8 +20,9 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.XiaoWuLibs:wslMaven:Tag'
+	        implementation 'com.github.XiaoWuLibs:wslMaven:v1.0.0'
 	}
+
 
 
 按照上面的步骤可以在你们自己的项目中导入我的依赖库了
